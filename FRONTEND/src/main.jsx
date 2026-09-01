@@ -20,7 +20,7 @@ const solutions = [
 ];
 const clients = [
   ['KILA, Thrissur', '/images/clients/kila.jpg'],
-  ['Deshabhimani Printing Press, Punkunnam', 'public/images/clients/deshabhimani.jpg'],
+  ['Deshabhimani Printing Press, Punkunnam', '/images/clients/deshabhimani.jpg'],
   ['Classic Regency, Alleppey', '/images/clients/classic-regency.jpg'],
   ['Y Mall, Thriprayar', '/images/clients/y-mall.jpg'],
   ['Mothimahal Residency, Thrissur', '/images/clients/mothimahal.jpg'],
